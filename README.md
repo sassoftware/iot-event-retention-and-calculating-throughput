@@ -8,17 +8,7 @@ In this repository, you'll learn how to retain events and how to calculate the e
 * How to write user-defined functions and execute them in a Compute window
 * How Aggregate windows function when receiving input from a Copy window
 
-**Editing with ESP Studio**
 
-![](videos/Edit_Studio.mp4) 
-
-**Editing with a Text Editor**
-
-![](videos/Edit_Model.mp4)
-
-**Executing and Subscribing**
-
-![](videos/Execute_Model.mp4)
 
 ## Overview
 
