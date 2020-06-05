@@ -8,6 +8,11 @@ In this repository, you'll learn how to retain events and how to calculate the e
 * How to write user-defined functions and execute them in a Compute window
 * How Aggregate windows function when receiving input from a Copy window
 
+[![Editing with ESP Studio](/images/editing_with_esp_studio.png)](https://players.brightcove.net/3665946608001/default_default/index.html?videoId=6161719352001 "Editing with ESP Studio")
+
+[![Editing with a Text Editor](/images/editing_with_text_editor.png)](https://players.brightcove.net/3665946608001/default_default/index.html?videoId=6161724394001 "Editing with a Text Editor")
+
+[![Executing and Subscribing](/images/executing.png)](https://players.brightcove.net/3665946608001/default_default/index.html?videoId=6161719361001 "Executing and Subscribing")
 
 
 ## Overview
