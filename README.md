@@ -1,5 +1,7 @@
 # Event Retention and Calculating Throughput
 
+<img src="https://img.shields.io/badge/Category-Data%20Transformation-blue"> <img src="https://img.shields.io/badge/Sub--Category-Aggregate,%20Copy,%20Compute-yellowgreen"> <img src="https://img.shields.io/badge/Difficulty-Beginner-yellow"> <img src="https://img.shields.io/badge/Updated-Jun%202020-orange">
+
 In this repository, you'll learn how to retain events and how to calculate the event throughput rate using SAS Event Stream Processing (ESP) 6.2.
 
 ## What You Will Learn
